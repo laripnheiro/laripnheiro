@@ -10,6 +10,8 @@ eu so a Larissa, e:
 - 💬 A maior odiadora do secratário estadual da educação
 - 👍 Se precisar de mim simples, não precise!
 - 😄 meus pronomes são: ela/dela
-- ⚡ Fun fact: eu to querendo cometer um crime de odio comtra mim mesma.
-    ![](https://64.media.tumblr.com/5de835c0715f34e491ac02bdc2516a4e/233ae580146652e4-a0/s500x750/304b38c8b7125b0d034409fb591f02a2f4fcba3d.gifv)
+- ⚡ Fun fact: eu to querendo cometer um crime de odio contra mim mesma.
+![](https://64.media.tumblr.com/60aa1fc81cad2b5930c42dce0bab8dd1/086b810ca034857b-70/s400x600/1d30b83cc206e93946186a818fdf17dcb7ecc758.gifv)
+
+
   
