@@ -5,7 +5,7 @@ eu so a Larissa, e:
 
 - 🧑‍🎓 Infelizmente sou uma estudante
 - 🏫 Terminando o Ensino Médio
-- 📚 Em tese estou aprendendo a programar em Java, mas prefiro minha blueprint
+- 📚 Em tese estou aprendendo a programar em Java
 - 😐 Por favor me salva desse inferno
 - 💬 A maior odiadora do secratário estadual da educação
 - 👍 Se precisar de mim simples, não precise!
