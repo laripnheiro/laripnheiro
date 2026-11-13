@@ -1,6 +1,10 @@
 # hiii, I'm Larissa Pinheiro!
 
+
+
 ## About me
+
+<img data-importer="image" align="right" height="150" src="/laripnheiro/img/pompompurinjumping.gif"  />
 
 Software development student at Faculdade de Tecnologia do Estado de São Paulo (FATEC Zona Sul), multi-platform track. Also taking the Transforma-se front-end course, run in partnership with PROA and Serasa Experian, and I've taken a game design course at Zion Escola de Entretenimento.
 
@@ -11,9 +15,9 @@ Currently working in support at a large advertising company, looking for an inte
 
 ## Tecnology
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-965f37?style=for-the-badge&logo=html5&logoColor=f6f2af)
+![CSS3](https://img.shields.io/badge/CSS3-965f37?style=for-the-badge&logo=css3&logoColor=f6f2af)
+![JavaScript](https://img.shields.io/badge/JavaScript-965f37?style=for-the-badge&logo=javascript&logoColor=f6f2af)
 
 
 ## Projects
@@ -28,6 +32,27 @@ Currently working in support at a large advertising company, looking for an inte
 
 ## Contact
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/larissagpnheiro)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:larissagpnheiro@gmail.com)
-  
+<div data-importer="socials" align="left">
+  <a href="mailto:larissagpnheiro@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=965f37&logoColor=fff9b0&labelColor=965f37&style=for-the-badge" height="30" alt="gmail logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/larissagpnheiro" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=965f37&logoColor=fff9b0&labelColor=965f37&style=for-the-badge" height="30" alt="linkedin logo"  />
+  </a>
+</div>
+
+###
+
+<br clear="both">
+
+<img data-importer="snake" src="https://raw.githubusercontent.com/laripnheiro/laripnheiro/snake-output/snake.svg" alt="Snake animation" />
+
+###
+
+<div data-importer="music" align="center">
+  <a href="https://open.spotify.com/user/r4v0fqz68zof7ct3ab8yrm5vn">
+  <img src="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=r4v0fqz68zof7ct3ab8yrm5vn&amp;width=420&amp;radius=22&amp;logo=0&amp;avatar=0&amp;profile=footer-right&amp;bg_color=4b2814&amp;text_color=fff9b0&amp;accent_color=f6f2af&amp;logo_color=f6f2af" alt="Spotify recently played" width="420" />
+</a>
+</div>
+
+###
