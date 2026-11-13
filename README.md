@@ -1,17 +1,33 @@
-### Oi, seja bem viado 👋
-![](https://64.media.tumblr.com/302ee4058ac6623cdc965f15f414b1af/2d3b31fd4c07cbfd-76/s640x960/a1cf65bdbe180e01f9aa42028c18939076962036.pnj)
+# hiii, I'm Larissa Pinheiro!
 
-eu so a Larissa, e:
+## About me
 
-- 🧑‍🎓 Infelizmente sou uma estudante
-- 🏫 Terminando o Ensino Médio
-- 📚 Em tese estou aprendendo a programar em Java
-- 😐 Por favor me salva desse inferno
-- 💬 A maior odiadora do secratário estadual da educação
-- 👍 Se precisar de mim simples, não precise!
-- 😄 meus pronomes são: ela/dela
-- ⚡ Fun fact: eu to querendo cometer um crime de odio contra mim mesma.
-![](https://64.media.tumblr.com/60aa1fc81cad2b5930c42dce0bab8dd1/086b810ca034857b-70/s400x600/1d30b83cc206e93946186a818fdf17dcb7ecc758.gifv)
+Software development student at Faculdade de Tecnologia do Estado de São Paulo (FATEC Zona Sul), multi-platform track. Also taking the Transforma-se front-end course, run in partnership with PROA and Serasa Experian, and I've taken a game design course at Zion Escola de Entretenimento.
+
+I'm interested in tech in general, and right now I'm most comfortable with front-end, databases and back-end. I use this profile to keep my study projects and track my progress.
+
+Currently working in support at a large advertising company, looking for an internship in development.
 
 
+## Tecnology
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+
+## Projects
+
+- **[Memória da Quebrada](https://github.com/laripnheiro/memoria-da-quebrada)** — acervo de histórias da quebrada, em desenvolvimento (telas no Figma)
+- **[Site de Receitas](https://github.com/laripnheiro/atividade-site-receitas-sp16)** — página de receitas feita com HTML e CSS
+- **[Thinking About Pompompurin](https://github.com/laripnheiro/ThinkingAboutPompompurin)** — meu primeiro projeto de site, feito no ensino médio
+- **[Atividades FATEC](https://github.com/laripnheiro/AtividadeCarrosDSWIII)** — exercícios de back-end com Node e EJS
+
+**Estudos em andamento:** [atividades e conteúdos do curso Transforma-se](https://github.com/laripnheiro?tab=repositories) — HTML, CSS e JavaScript
+
+
+## Contact
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/larissagpnheiro)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:larissagpnheiro@gmail.com)
   
