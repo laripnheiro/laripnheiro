@@ -4,7 +4,7 @@
 
 ## About me
 
-<img data-importer="image" align="right" height="150" src="/laripnheiro/img/pompompurinjumping.gif"  />
+<img data-importer="image" align="right" height="180" src="./img/pompompurinjumping.gif"  />
 
 Software development student at Faculdade de Tecnologia do Estado de São Paulo (FATEC Zona Sul), multi-platform track. Also taking the Transforma-se front-end course, run in partnership with PROA and Serasa Experian, and I've taken a game design course at Zion Escola de Entretenimento.
 
