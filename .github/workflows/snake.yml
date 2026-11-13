@@ -17,7 +17,7 @@ jobs:
           github_user_name: laripnheiro
           outputs: |
             dist/snake.svg?color_snake=#7b3933&color_dots=#ebedf0,#f6f2af,#c9a227,#7b3933
-      - uses: crazy-max/ghaction-github-pages@v3.1.0
+      - uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: snake-output
           build_dir: dist
